@@ -1,0 +1,7 @@
+# robots.txt — TKO DANCE STUDIO
+# ★ 公開後、Sitemap の URL を実際のドメインに変更してください
+
+User-agent: *
+Allow: /
+
+Sitemap: http://tkodancestudio.com/sitemap.xml

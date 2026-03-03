@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- sitemap.xml — TKO DANCE STUDIO -->
+<!-- ★ 公開後、loc の URL を実際のドメインに変更し、Google Search Console からこのファイルを送信してください -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://tkodancestudio.com/</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="http://tkodancestudio.com/"/>
+  </url>
+</urlset>
